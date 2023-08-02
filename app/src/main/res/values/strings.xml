@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KolbsQuiz</string>
+    <string name="text">\t\t\t<b>Kolb\'s Four Learning Styles</b> \n\n\t\t\t\t\t\t\t\t \u25CF Diverging (feeling and watching). \n\t\t\t\t\t\t\t\t \u25CF Assimilating (watching and thinking). \n\t\t\t\t\t\t\t\t \u25CF Converging (doing and thinking). \n\t\t\t\t\t\t\t\t \u25CF Accommodating (doing and feeling). \n\n\t\t\t\tIn Kolb\'s theory, people have a tendency to have one of these four distinct styles which impacts the way they learn.</string>
+
+    <string name="N1">Dhanush</string>
+    <string name="G1">dhanushsaminathan31@gmail.com</string>
+    <string name="N2">Dhanush</string>
+    <string name="G2">dhanushsaminathan31@gmail.com</string>
+</resources>
